@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/78qgib0gssnkjnry/branch/master?svg=true)](https://ci.appveyor.com/project/Kristuut/debit-card/branch/master)
